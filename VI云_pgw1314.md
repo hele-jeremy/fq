@@ -47,6 +47,8 @@
 
 ssr://MjQua25zZy5mdW46NTI2MzQ6b3JpZ2luOnJjNC1tZDU6cGxhaW46WmtsVU9HTjQvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01cGF3NVlxZzVaMmhJT1dGamVpMHVlaUtndWVDdVMzbW5JbnBsNjdwb3Bqb3I3ZmxpcUJSVWVlLXBEY3dNRFF4TkRRNE5BJmdyb3VwPVZrbmt1cEU
 
+- 配置二维码：
+![](/qrcode/新加坡 免费节点-有问题请加QQ群700414484.png)
 
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
