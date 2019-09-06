@@ -10,7 +10,7 @@
 - 剩余流量：8.95GB
 - 等级过期时间：2019-09-09 11:12:10
 - 账号过期时间：2029-09-02 17:12:10
-- 上次使用时间：2019-09-06 22:01:03
+- 上次使用时间：2019-09-06 23:00:33
 - 上次签到时间：2019-09-06 12:16:11
 - 订阅地址：https://www.viyundingji.xyz/link/NN2lOpwUEvJrVQ34?mu=0
 
@@ -20,9 +20,9 @@
 
 #### 台湾 弯弯娘炮节点-02
 
-- 负载：0%
+- 负载：17%
 
-- 在线人数： 1
+- 在线人数： 2
 
 - Json配置信息：
 ```
@@ -53,9 +53,9 @@ ssr://MzUuMTg1LjE1MC4xNDc6MjE0MjI6b3JpZ2luOnJjNC1tZDU6cGxhaW46U0RsYVMyODUvP29iZn
 
 #### 台湾 弯弯娘炮高速节点-01
 
-- 负载：12%
+- 负载：3%
 
-- 在线人数： 4
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -86,9 +86,9 @@ ssr://MzQuODAuNTIuMTg5OjIxNDIyOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNEbGFTMjg1Lz9vYmZzcG
 
 #### 日本 东京AWS免费节点01
 
-- 负载：0%
+- 负载：1%
 
-- 在线人数： 0
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -119,7 +119,7 @@ ssr://MTMuMjMwLjIxNi4xNDc6MjE0MjI6b3JpZ2luOnJjNC1tZDU6cGxhaW46U0RsYVMyODUvP29iZn
 
 #### 日本 东京ONEVPS视频节点C
 
-- 负载：1%
+- 负载：6%
 
 - 在线人数： 7
 
@@ -152,7 +152,7 @@ ssr://NS4xODMuMTc3LjE4OToyMTQyMjpvcmlnaW46cmM0LW1kNTpwbGFpbjpTRGxhUzI4NS8
 
 #### 日本 东京东京都视频节点
 
-- 负载：22%
+- 负载：25%
 
 - 在线人数： 28
 
@@ -185,9 +185,9 @@ ssr://NDUuOTMuMjE3LjE4MjoyMTQyMjpvcmlnaW46cmM0LW1kNTpwbGFpbjpTRGxhUzI4NS8
 
 #### 美国 落山鸡GTT线路
 
-- 负载：7%
+- 负载：32%
 
-- 在线人数： 3
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -218,9 +218,9 @@ ssr://NDUuOTIuMTI0LjE4MToyMTQyMjpvcmlnaW46cmM0LW1kNTpwbGFpbjpTRGxhUzI4NS8
 
 #### 香港 随便浪高速节点-01
 
-- 负载：14%
+- 负载：2%
 
-- 在线人数： 2
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -251,7 +251,7 @@ ssr://MzUuMjQxLjEyMC4xMDk6MjE0MjI6b3JpZ2luOnJjNC1tZDU6cGxhaW46U0RsYVMyODUvP29iZn
 
 #### 香港 随便浪高速节点-02
 
-- 负载：1%
+- 负载：3%
 
 - 在线人数： 6
 
@@ -286,7 +286,7 @@ ssr://MzUuMjQxLjg4LjI0ODoyMTQyMjpvcmlnaW46cmM0LW1kNTpwbGFpbjpTRGxhUzI4NS8
 
 - 负载：9%
 
-- 在线人数： 4
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -317,7 +317,7 @@ ssr://MzUuMjQxLjEwOC41OjIxNDIyOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNEbGFTMjg1Lz9vYmZzcG
 
 #### 香港 随便浪高速节点-04
 
-- 负载：6%
+- 负载：11%
 
 - 在线人数： 4
 
@@ -350,9 +350,9 @@ ssr://MzQuOTIuMTMyLjQzOjIxNDIyOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNEbGFTMjg1Lz9vYmZzcG
 
 #### 台湾 弯弯娘炮节点-02
 
-- 负载：0%
+- 负载：17%
 
-- 在线人数： 1
+- 在线人数： 2
 
 - Json配置信息：
 ```
@@ -383,9 +383,9 @@ ssr://MzUuMTg1LjE1MC4xNDc6NDU1Njc6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3
 
 #### 台湾 弯弯娘炮高速节点-01
 
-- 负载：12%
+- 负载：3%
 
-- 在线人数： 4
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -416,9 +416,9 @@ ssr://MzQuODAuNTIuMTg5OjQ1NTY3OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW
 
 #### 日本 东京AWS免费节点01
 
-- 负载：0%
+- 负载：1%
 
-- 在线人数： 0
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -449,9 +449,9 @@ ssr://MTMuMjMwLjIxNi4xNDc6NDU1Njc6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3
 
 #### 日本 东京ONEVPS视频节点C
 
-- 负载：0%
+- 负载：6%
 
-- 在线人数： 8
+- 在线人数： 7
 
 - Json配置信息：
 ```
@@ -482,7 +482,7 @@ ssr://NS4xODMuMTc3LjE4OTo0NTU2NzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2
 
 #### 日本 东京东京都视频节点
 
-- 负载：22%
+- 负载：25%
 
 - 在线人数： 28
 
@@ -515,9 +515,9 @@ ssr://NDUuOTMuMjE3LjE4Mjo0NTU2NzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2
 
 #### 美国 落山鸡GTT线路
 
-- 负载：29%
+- 负载：32%
 
-- 在线人数： 5
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -548,9 +548,9 @@ ssr://NDUuOTIuMTI0LjE4MTo0NTU2NzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2
 
 #### 香港 随便浪高速节点-01
 
-- 负载：38%
+- 负载：17%
 
-- 在线人数： 4
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -581,9 +581,9 @@ ssr://MzUuMjQxLjEyMC4xMDk6NDU1Njc6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3
 
 #### 香港 随便浪高速节点-02
 
-- 负载：0%
+- 负载：3%
 
-- 在线人数： 5
+- 在线人数： 6
 
 - Json配置信息：
 ```
@@ -616,7 +616,7 @@ ssr://MzUuMjQxLjg4LjI0ODo0NTU2NzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2
 
 - 负载：9%
 
-- 在线人数： 4
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -647,7 +647,7 @@ ssr://MzUuMjQxLjEwOC41OjQ1NTY3OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW
 
 #### 香港 随便浪高速节点-04
 
-- 负载：6%
+- 负载：11%
 
 - 在线人数： 4
 
@@ -680,9 +680,9 @@ ssr://MzQuOTIuMTMyLjQzOjQ1NTY3OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW
 
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：37%
+- 负载：39%
 
-- 在线人数： 19
+- 在线人数： 22
 
 - Json配置信息：
 ```
@@ -714,7 +714,7 @@ ssr://MjQua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 - 负载：21%
 
-- 在线人数： 16
+- 在线人数： 13
 
 - Json配置信息：
 ```
@@ -744,9 +744,9 @@ ssr://MjEua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：32%
+- 负载：7%
 
-- 在线人数： 13
+- 在线人数： 12
 
 - Json配置信息：
 ```
@@ -776,9 +776,9 @@ ssr://MjIua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### 日本3 免费节点 - 有问题请加QQ群700414484
 
-- 负载：7%
+- 负载：3%
 
-- 在线人数： 12
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -840,9 +840,9 @@ ssr://dmlwMi1qcDIubXh4by54eXo6MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP2
 
 #### 美国 免费节点 - 有问题请加QQ群700414484
 
-- 负载：25%
+- 负载：27%
 
-- 在线人数： 9
+- 在线人数： 7
 
 - Json配置信息：
 ```
@@ -872,9 +872,9 @@ ssr://MjAua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### [vip1]新加坡 - 2丨解锁Netflix丨三网优化
 
-- 负载：150%
+- 负载：200%
 
-- 在线人数： 12
+- 在线人数： 0
 
 - Json配置信息：
 ```
@@ -904,9 +904,9 @@ ssr://dmlwMS41OS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]新加坡 - 解锁Netflix丨三网优化
 
-- 负载：188%
+- 负载：920%
 
-- 在线人数： 14
+- 在线人数： 12
 
 - Json配置信息：
 ```
@@ -936,9 +936,9 @@ ssr://dmlwMS41OC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]日本 - ①丨三网优化
 
-- 负载：19%
+- 负载：7%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -968,9 +968,9 @@ ssr://dmlwMS40MC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]日本 - ②丨三网优化
 
-- 负载：3%
+- 负载：1%
 
-- 在线人数： 9
+- 在线人数： 6
 
 - Json配置信息：
 ```
@@ -1000,9 +1000,9 @@ ssr://MTQua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### [vip1]日本 - ③丨三网优化
 
-- 负载：10%
+- 负载：3%
 
-- 在线人数： 12
+- 在线人数： 11
 
 - Json配置信息：
 ```
@@ -1032,9 +1032,9 @@ ssr://MTUua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### [vip1]日本 - ④丨三网优化
 
-- 负载：10%
+- 负载：3%
 
-- 在线人数： 11
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -1064,9 +1064,9 @@ ssr://dmlwMS41Ny5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 备用节点
 
-- 负载：19%
+- 负载：4%
 
-- 在线人数： 8
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -1096,9 +1096,9 @@ ssr://dmlwMS4zNi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点①
 
-- 负载：14%
+- 负载：23%
 
-- 在线人数： 19
+- 在线人数： 22
 
 - Json配置信息：
 ```
@@ -1128,9 +1128,9 @@ ssr://dmlwMS41Mi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点②
 
-- 负载：33%
+- 负载：0%
 
-- 在线人数： 5
+- 在线人数： 4
 
 - Json配置信息：
 ```
@@ -1160,9 +1160,9 @@ ssr://MTgua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### [vip1]美国 - 高速节点③
 
-- 负载：24%
+- 负载：9%
 
-- 在线人数： 8
+- 在线人数： 2
 
 - Json配置信息：
 ```
@@ -1192,9 +1192,9 @@ ssr://dmlwMS40Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点④
 
-- 负载：6%
+- 负载：5%
 
-- 在线人数： 14
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -1224,9 +1224,9 @@ ssr://dmlwMS4zNy5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点④
 
-- 负载：8%
+- 负载：11%
 
-- 在线人数： 12
+- 在线人数： 7
 
 - Json配置信息：
 ```
@@ -1256,9 +1256,9 @@ ssr://MTcua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP29iZnNwYX
 
 #### [vip1]美国 - 高速节点⑤
 
-- 负载：39%
+- 负载：19%
 
-- 在线人数： 10
+- 在线人数： 6
 
 - Json配置信息：
 ```
@@ -1288,9 +1288,9 @@ ssr://dmlwMS41NC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点⑥
 
-- 负载：10%
+- 负载：6%
 
-- 在线人数： 6
+- 在线人数： 7
 
 - Json配置信息：
 ```
@@ -1320,9 +1320,9 @@ ssr://dmlwMS41NS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点⑦
 
-- 负载：9%
+- 负载：2%
 
-- 在线人数： 11
+- 在线人数： 7
 
 - Json配置信息：
 ```
@@ -1384,9 +1384,9 @@ ssr://MS5rbnNnLmZ1bjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpUbFJpTW10SC8
 
 #### [vip1]香港 - ②阿里云light丨解锁Netfilx
 
-- 负载：31%
+- 负载：35%
 
-- 在线人数： 13
+- 在线人数： 11
 
 - Json配置信息：
 ```
@@ -1416,9 +1416,9 @@ ssr://dmlwMDEuMjkua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP2
 
 #### [vip1]香港 - ③阿里云light丨解锁Netfilx
 
-- 负载：39%
+- 负载：40%
 
-- 在线人数： 19
+- 在线人数： 20
 
 - Json配置信息：
 ```
@@ -1448,9 +1448,9 @@ ssr://dmlwMDEuMzAua25zZy5mdW46MzU3NzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46VGxSaU1tdEgvP2
 
 #### [vip1]香港 - ④阿里云light丨解锁Netfilx
 
-- 负载：6%
+- 负载：73%
 
-- 在线人数： 15
+- 在线人数： 18
 
 - Json配置信息：
 ```
@@ -1480,9 +1480,9 @@ ssr://NC5rbnNnLmZ1bjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpUbFJpTW10SC8
 
 #### [vip1]香港 - ⑤阿里云light丨解锁Netfilx
 
-- 负载：6%
+- 负载：36%
 
-- 在线人数： 10
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -1512,9 +1512,9 @@ ssr://NS5rbnNnLmZ1bjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpUbFJpTW10SC8
 
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：22%
+- 负载：12%
 
-- 在线人数： 10
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -1544,9 +1544,9 @@ ssr://Ni5rbnNnLmZ1bjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpUbFJpTW10SC8
 
 #### [vip1]香港 - ⑦阿里云light
 
-- 负载：35%
+- 负载：17%
 
-- 在线人数： 15
+- 在线人数： 17
 
 - Json配置信息：
 ```
@@ -1576,9 +1576,9 @@ ssr://Ny5rbnNnLmZ1bjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpUbFJpTW10SC8
 
 #### [vip1]香港 - ⑧阿里云light
 
-- 负载：34%
+- 负载：12%
 
-- 在线人数： 10
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -1610,7 +1610,7 @@ ssr://OC5rbnNnLmZ1bjozNTc3MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpUbFJpTW10SC8
 
 - 负载：45%
 
-- 在线人数： 15
+- 在线人数： 23
 
 - Json配置信息：
 ```
