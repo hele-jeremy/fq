@@ -22,7 +22,7 @@
 
 - 负载：16%
 
-- 在线人数： 5
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -52,9 +52,9 @@ ssr://MjQua25zZy5mdW46NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP29iZnNwYX
 
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
-- 负载：3%
+- 负载：1%
 
-- 在线人数： 0
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -86,7 +86,7 @@ ssr://MjEua25zZy5mdW46NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP29iZnNwYX
 
 - 负载：14%
 
-- 在线人数： 2
+- 在线人数： 6
 
 - Json配置信息：
 ```
@@ -118,7 +118,7 @@ ssr://MjIua25zZy5mdW46NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP29iZnNwYX
 
 - 负载：4%
 
-- 在线人数： 3
+- 在线人数： 2
 
 - Json配置信息：
 ```
