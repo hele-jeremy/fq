@@ -5,12 +5,12 @@
 - 帐号等级：普通用户
 - 在线设备数：0 / 2
 - 带宽：20Mbps
-- 今日使用流量：0B
+- 今日使用流量：38.69KB
 - 过去使用流量：0B
-- 剩余流量：0B
+- 剩余流量：-38.69KB
 - 等级过期时间：2019-09-09 11:16:11
 - 账号过期时间：2029-09-02 17:16:11
-- 上次使用时间：2019-09-09 09:57:58
+- 上次使用时间：2019-09-09 17:20:21
 - 上次签到时间：2019-09-05 17:16:36
 - 订阅地址：https://www.viyundingji.xyz/link/7n8DqILgqdxd3s4M?mu=0
 
@@ -22,7 +22,7 @@
 
 - 负载：16%
 
-- 在线人数： 13
+- 在线人数： 14
 
 - Json配置信息：
 ```
@@ -52,9 +52,9 @@ ssr://MjQua25zZy5mdW46NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP29iZnNwYX
 
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
-- 负载：3%
+- 负载：66%
 
-- 在线人数： 6
+- 在线人数： 10
 
 - Json配置信息：
 ```
@@ -86,7 +86,7 @@ ssr://MjEua25zZy5mdW46NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP29iZnNwYX
 
 - 负载：14%
 
-- 在线人数： 8
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -118,7 +118,7 @@ ssr://MjIua25zZy5mdW46NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP29iZnNwYX
 
 - 负载：4%
 
-- 在线人数： 9
+- 在线人数： 8
 
 - Json配置信息：
 ```
@@ -182,7 +182,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6NjQ0MzE6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y21STVJFWXovP2
 
 - 负载：61%
 
-- 在线人数： 10
+- 在线人数： 11
 
 - Json配置信息：
 ```
