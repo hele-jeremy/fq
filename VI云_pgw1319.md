@@ -4,14 +4,14 @@
 
 - 用户名：pgw1319@gmail.com
 - 帐号等级：VIP 1
-- 在线设备数：0 / 2
+- 在线设备数：1 / 2
 - 带宽：20Mbps
-- 今日使用流量：1.88GB
+- 今日使用流量：1.9GB
 - 过去使用流量：47.61MB
-- 剩余流量：8.75GB
+- 剩余流量：8.73GB
 - 等级过期时间：2019-09-11 17:56:52
 - 账号过期时间：2029-09-04 23:56:52
-- 上次使用时间：2019-09-10 18:56:16
+- 上次使用时间：2019-09-10 20:00:22
 - 上次签到时间：2019-09-08 01:54:46
 - 订阅地址：https://www.viyundingji.xyz/link/6VEegZHsvcfkEWl8?mu=0
 
@@ -19,7 +19,7 @@
 
 - 负载：16%
 
-- 在线人数： 16
+- 在线人数： 17
 
 - Json配置信息：
 
@@ -50,9 +50,9 @@ ssr://MjQua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9-%E6%9C%89%E9%97%AE%E9%A2%98%E8%AF%B7%E5%8A%A0QQ%E7%BE%A4700414484.png)
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
-- 负载：62%
+- 负载：65%
 
-- 在线人数： 10
+- 在线人数： 9
 
 - Json配置信息：
 
@@ -85,7 +85,7 @@ ssr://MjEua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 - 负载：14%
 
-- 在线人数： 13
+- 在线人数： 17
 
 - Json配置信息：
 
@@ -184,7 +184,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP2
 
 - 负载：61%
 
-- 在线人数： 14
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -215,9 +215,9 @@ ssr://MjAua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%E7%BE%8E%E5%9B%BD%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%20-%20%E6%9C%89%E9%97%AE%E9%A2%98%E8%AF%B7%E5%8A%A0QQ%E7%BE%A4700414484.png)
 #### [vip1]新加坡 - 2丨解锁Netflix丨三网优化
 
-- 负载：193%
+- 负载：97%
 
-- 在线人数： 7
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -248,9 +248,9 @@ ssr://dmlwMS41OS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%202%E4%B8%A8%E8%A7%A3%E9%94%81Netflix%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96.png)
 #### [vip1]新加坡 - 解锁Netflix丨三网优化
 
-- 负载：241%
+- 负载：86%
 
-- 在线人数： 8
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -281,9 +281,9 @@ ssr://dmlwMS41OC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E8%A7%A3%E9%94%81Netflix%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96.png)
 #### [vip1]日本 - ①丨三网优化
 
-- 负载：10%
+- 负载：34%
 
-- 在线人数： 11
+- 在线人数： 12
 
 - Json配置信息：
 
@@ -314,9 +314,9 @@ ssr://dmlwMS40MC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E6%97%A5%E6%9C%AC%20-%20%E2%91%A0%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96.png)
 #### [vip1]日本 - ②丨三网优化
 
-- 负载：8%
+- 负载：5%
 
-- 在线人数： 4
+- 在线人数： 2
 
 - Json配置信息：
 
@@ -347,9 +347,9 @@ ssr://MTQua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E6%97%A5%E6%9C%AC%20-%20%E2%91%A1%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96.png)
 #### [vip1]日本 - ③丨三网优化
 
-- 负载：10%
+- 负载：1%
 
-- 在线人数： 5
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -380,7 +380,7 @@ ssr://MTUua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E6%97%A5%E6%9C%AC%20-%20%E2%91%A2%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96.png)
 #### [vip1]日本 - ④丨三网优化
 
-- 负载：3%
+- 负载：7%
 
 - 在线人数： 5
 
@@ -413,7 +413,7 @@ ssr://dmlwMS41Ny5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E6%97%A5%E6%9C%AC%20-%20%E2%91%A3%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96.png)
 #### [vip1]美国 - 备用节点
 
-- 负载：17%
+- 负载：10%
 
 - 在线人数： 4
 
@@ -446,9 +446,9 @@ ssr://dmlwMS4zNi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E5%A4%87%E7%94%A8%E8%8A%82%E7%82%B9.png)
 #### [vip1]美国 - 高速节点①
 
-- 负载：31%
+- 负载：18%
 
-- 在线人数： 13
+- 在线人数： 12
 
 - Json配置信息：
 
@@ -479,7 +479,7 @@ ssr://dmlwMS41Mi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A0.png)
 #### [vip1]美国 - 高速节点②
 
-- 负载：11%
+- 负载：6%
 
 - 在线人数： 4
 
@@ -512,9 +512,9 @@ ssr://MTgua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A1.png)
 #### [vip1]美国 - 高速节点③
 
-- 负载：13%
+- 负载：10%
 
-- 在线人数： 6
+- 在线人数： 0
 
 - Json配置信息：
 
@@ -545,7 +545,7 @@ ssr://dmlwMS40Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A2.png)
 #### [vip1]美国 - 高速节点④
 
-- 负载：12%
+- 负载：3%
 
 - 在线人数： 3
 
@@ -578,9 +578,9 @@ ssr://dmlwMS4zNy5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A3.png)
 #### [vip1]美国 - 高速节点④
 
-- 负载：7%
+- 负载：23%
 
-- 在线人数： 3
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -611,9 +611,9 @@ ssr://MTcua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A3.png)
 #### [vip1]美国 - 高速节点⑤
 
-- 负载：19%
+- 负载：23%
 
-- 在线人数： 5
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -644,9 +644,9 @@ ssr://dmlwMS41NC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A4.png)
 #### [vip1]美国 - 高速节点⑥
 
-- 负载：21%
+- 负载：4%
 
-- 在线人数： 8
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -677,7 +677,7 @@ ssr://dmlwMS41NS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A5.png)
 #### [vip1]美国 - 高速节点⑦
 
-- 负载：15%
+- 负载：12%
 
 - 在线人数： 5
 
@@ -710,9 +710,9 @@ ssr://dmlwMS41Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%20-%20%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E2%91%A6.png)
 #### [vip1]香港 - ①阿里云linght丨解锁Netfilx
 
-- 负载：2%
+- 负载：23%
 
-- 在线人数： 13
+- 在线人数： 15
 
 - Json配置信息：
 
@@ -743,9 +743,9 @@ ssr://MS5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A0%E9%98%BF%E9%87%8C%E4%BA%91linght%E4%B8%A8%E8%A7%A3%E9%94%81Netfilx.png)
 #### [vip1]香港 - ②阿里云light丨解锁Netfilx
 
-- 负载：21%
+- 负载：1%
 
-- 在线人数： 12
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -776,9 +776,9 @@ ssr://dmlwMDEuMjkua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP2
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A1%E9%98%BF%E9%87%8C%E4%BA%91light%E4%B8%A8%E8%A7%A3%E9%94%81Netfilx.png)
 #### [vip1]香港 - ③阿里云light丨解锁Netfilx
 
-- 负载：19%
+- 负载：1%
 
-- 在线人数： 12
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -842,9 +842,9 @@ ssr://NC5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A3%E9%98%BF%E9%87%8C%E4%BA%91light%E4%B8%A8%E8%A7%A3%E9%94%81Netfilx.png)
 #### [vip1]香港 - ⑤阿里云light丨解锁Netfilx
 
-- 负载：15%
+- 负载：18%
 
-- 在线人数： 11
+- 在线人数： 0
 
 - Json配置信息：
 
@@ -875,9 +875,9 @@ ssr://NS5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A4%E9%98%BF%E9%87%8C%E4%BA%91light%E4%B8%A8%E8%A7%A3%E9%94%81Netfilx.png)
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：14%
+- 负载：7%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 
@@ -908,9 +908,9 @@ ssr://Ni5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A5%E9%98%BF%E9%87%8C%E4%BA%91light.png)
 #### [vip1]香港 - ⑦阿里云light
 
-- 负载：0%
+- 负载：73%
 
-- 在线人数： 12
+- 在线人数： 11
 
 - Json配置信息：
 
@@ -941,9 +941,9 @@ ssr://Ny5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A6%E9%98%BF%E9%87%8C%E4%BA%91light.png)
 #### [vip1]香港 - ⑧阿里云light
 
-- 负载：12%
+- 负载：13%
 
-- 在线人数： 8
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -974,9 +974,9 @@ ssr://OC5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 ![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1319/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A7%E9%98%BF%E9%87%8C%E4%BA%91light.png)
 #### [vip1]香港 - 阿里云light
 
-- 负载：0%
+- 负载：34%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 
