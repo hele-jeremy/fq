@@ -5,12 +5,12 @@
 - 帐号等级：VIP 1
 - 在线设备数：1 / 2
 - 带宽：20Mbps
-- 今日使用流量：748.4MB
+- 今日使用流量：749.41MB
 - 过去使用流量：47.61MB
-- 剩余流量：9.9GB
+- 剩余流量：9.89GB
 - 等级过期时间：2019-09-11 17:56:52
 - 账号过期时间：2029-09-04 23:56:52
-- 上次使用时间：2019-09-10 11:01:44
+- 上次使用时间：2019-09-10 12:01:43
 - 上次签到时间：2019-09-08 01:54:46
 - 订阅地址：https://www.viyundingji.xyz/link/6VEegZHsvcfkEWl8?mu=0
 
@@ -22,7 +22,7 @@
 
 - 负载：16%
 
-- 在线人数： 12
+- 在线人数： 13
 
 - Json配置信息：
 ```
@@ -54,7 +54,7 @@ ssr://MjQua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 - 负载：74%
 
-- 在线人数： 8
+- 在线人数： 4
 
 - Json配置信息：
 ```
@@ -86,7 +86,7 @@ ssr://MjEua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 - 负载：14%
 
-- 在线人数： 11
+- 在线人数： 12
 
 - Json配置信息：
 ```
@@ -118,7 +118,7 @@ ssr://MjIua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 - 负载：4%
 
-- 在线人数： 11
+- 在线人数： 14
 
 - Json配置信息：
 ```
@@ -212,9 +212,9 @@ ssr://MjAua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 #### [vip1]新加坡 - 2丨解锁Netflix丨三网优化
 
-- 负载：145%
+- 负载：57%
 
-- 在线人数： 15
+- 在线人数： 13
 
 - Json配置信息：
 ```
@@ -244,9 +244,9 @@ ssr://dmlwMS41OS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]新加坡 - 解锁Netflix丨三网优化
 
-- 负载：146%
+- 负载：102%
 
-- 在线人数： 5
+- 在线人数： 4
 
 - Json配置信息：
 ```
@@ -276,9 +276,9 @@ ssr://dmlwMS41OC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]日本 - ①丨三网优化
 
-- 负载：6%
+- 负载：7%
 
-- 在线人数： 10
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -308,9 +308,9 @@ ssr://dmlwMS40MC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]日本 - ②丨三网优化
 
-- 负载：2%
+- 负载：8%
 
-- 在线人数： 5
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -340,9 +340,9 @@ ssr://MTQua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 #### [vip1]日本 - ③丨三网优化
 
-- 负载：11%
+- 负载：5%
 
-- 在线人数： 4
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -372,9 +372,9 @@ ssr://MTUua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 #### [vip1]日本 - ④丨三网优化
 
-- 负载：0%
+- 负载：1%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -404,9 +404,9 @@ ssr://dmlwMS41Ny5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 备用节点
 
-- 负载：1%
+- 负载：17%
 
-- 在线人数： 4
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -438,7 +438,7 @@ ssr://dmlwMS4zNi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 - 负载：7%
 
-- 在线人数： 16
+- 在线人数： 10
 
 - Json配置信息：
 ```
@@ -470,7 +470,7 @@ ssr://dmlwMS41Mi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 - 负载：2%
 
-- 在线人数： 5
+- 在线人数： 4
 
 - Json配置信息：
 ```
@@ -500,9 +500,9 @@ ssr://MTgua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 #### [vip1]美国 - 高速节点③
 
-- 负载：10%
+- 负载：13%
 
-- 在线人数： 5
+- 在线人数： 6
 
 - Json配置信息：
 ```
@@ -532,9 +532,9 @@ ssr://dmlwMS40Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点④
 
-- 负载：3%
+- 负载：9%
 
-- 在线人数： 5
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -564,9 +564,9 @@ ssr://dmlwMS4zNy5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点④
 
-- 负载：8%
+- 负载：28%
 
-- 在线人数： 7
+- 在线人数： 5
 
 - Json配置信息：
 ```
@@ -596,9 +596,9 @@ ssr://MTcua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP29iZnNwYX
 
 #### [vip1]美国 - 高速节点⑤
 
-- 负载：10%
+- 负载：9%
 
-- 在线人数： 5
+- 在线人数： 1
 
 - Json配置信息：
 ```
@@ -628,9 +628,9 @@ ssr://dmlwMS41NC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点⑥
 
-- 负载：3%
+- 负载：11%
 
-- 在线人数： 5
+- 在线人数： 3
 
 - Json配置信息：
 ```
@@ -660,9 +660,9 @@ ssr://dmlwMS41NS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点⑦
 
-- 负载：0%
+- 负载：3%
 
-- 在线人数： 5
+- 在线人数： 2
 
 - Json配置信息：
 ```
@@ -692,9 +692,9 @@ ssr://dmlwMS41Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]香港 - ①阿里云linght丨解锁Netfilx
 
-- 负载：25%
+- 负载：12%
 
-- 在线人数： 10
+- 在线人数： 14
 
 - Json配置信息：
 ```
@@ -724,9 +724,9 @@ ssr://MS5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 
 #### [vip1]香港 - ②阿里云light丨解锁Netfilx
 
-- 负载：6%
+- 负载：19%
 
-- 在线人数： 11
+- 在线人数： 12
 
 - Json配置信息：
 ```
@@ -756,9 +756,9 @@ ssr://dmlwMDEuMjkua25zZy5mdW46MjM1Njc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZVhGaFVHNDUvP2
 
 #### [vip1]香港 - ③阿里云light丨解锁Netfilx
 
-- 负载：27%
+- 负载：11%
 
-- 在线人数： 8
+- 在线人数： 9
 
 - Json配置信息：
 ```
@@ -820,9 +820,9 @@ ssr://NC5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 
 #### [vip1]香港 - ⑤阿里云light丨解锁Netfilx
 
-- 负载：22%
+- 负载：26%
 
-- 在线人数： 9
+- 在线人数： 10
 
 - Json配置信息：
 ```
@@ -852,9 +852,9 @@ ssr://NS5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：8%
+- 负载：40%
 
-- 在线人数： 5
+- 在线人数： 4
 
 - Json配置信息：
 ```
@@ -884,7 +884,7 @@ ssr://Ni5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 
 #### [vip1]香港 - ⑦阿里云light
 
-- 负载：34%
+- 负载：16%
 
 - 在线人数： 10
 
@@ -916,9 +916,9 @@ ssr://Ny5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 
 #### [vip1]香港 - ⑧阿里云light
 
-- 负载：24%
+- 负载：52%
 
-- 在线人数： 7
+- 在线人数： 4
 
 - Json配置信息：
 ```
@@ -948,7 +948,7 @@ ssr://OC5rbnNnLmZ1bjoyMzU2NzpvcmlnaW46cmM0LW1kNTpwbGFpbjplWEZoVUc0NS8
 
 #### [vip1]香港 - 阿里云light
 
-- 负载：19%
+- 负载：8%
 
 - 在线人数： 7
 
