@@ -20,7 +20,7 @@
 ### 节点列表
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：12%
+- 负载：11%
 
 - 在线人数： 2
 
@@ -88,9 +88,9 @@ ssr://OC5rbnNnLmZ1bjo0MTQ5OTpvcmlnaW46cmM0LW1kNTpwbGFpbjpURUpPY0hwTC8
 
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：15%
+- 负载：21%
 
-- 在线人数： 7
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -122,9 +122,9 @@ ssr://MjQua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
-- 负载：15%
+- 负载：194%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 
@@ -156,9 +156,9 @@ ssr://MjEua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：11%
+- 负载：19%
 
-- 在线人数： 3
+- 在线人数： 0
 
 - Json配置信息：
 
@@ -190,9 +190,9 @@ ssr://MjIua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本3 免费节点 - 有问题请加QQ群700414484
 
-- 负载：1%
+- 负载：3%
 
-- 在线人数： 2
+- 在线人数： 1
 
 - Json配置信息：
 
@@ -260,7 +260,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP2
 
 - 负载：N/A
 
-- 在线人数： 6
+- 在线人数： 4
 
 - Json配置信息：
 
