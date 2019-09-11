@@ -18,11 +18,79 @@
 <hr>
 
 ### 节点列表
+#### [vip1]香港 - ⑥阿里云light
+
+- 负载：18%
+
+- 在线人数： 4
+
+- Json配置信息：
+
+```
+{
+    "server": "47.240.3.17",
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 300,
+    "workers": 1,
+    "server_port": 41499,
+    "password": "LBNpzK",
+    "method": "rc4-md5",
+    "obfs": "plain",
+    "obfs_param": "",
+    "protocol": "origin",
+    "protocol_param": ""
+}
+                                               
+```
+
+- 配置连接：
+
+ssr://NDcuMjQwLjMuMTc6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1XM1pwY0RGZDZhYVo1cml2SUMwZzRwR2w2WmlfNlllTTVMcVJiR2xuYUhRJmdyb3VwPVZrbmt1cEU
+
+- 配置二维码：
+
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1318/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A5%E9%98%BF%E9%87%8C%E4%BA%91light.png)
+
+#### [vip1]香港 - ⑧阿里云light
+
+- 负载：45%
+
+- 在线人数： 3
+
+- Json配置信息：
+
+```
+{
+    "server": "8.knsg.fun",
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 300,
+    "workers": 1,
+    "server_port": 41499,
+    "password": "LBNpzK",
+    "method": "rc4-md5",
+    "obfs": "plain",
+    "obfs_param": "",
+    "protocol": "origin",
+    "protocol_param": ""
+}
+                                               
+```
+
+- 配置连接：
+
+ssr://OC5rbnNnLmZ1bjo0MTQ5OTpvcmlnaW46cmM0LW1kNTpwbGFpbjpURUpPY0hwTC8
+
+- 配置二维码：
+
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/VI%E4%BA%91_pgw1318/%5Bvip1%5D%E9%A6%99%E6%B8%AF%20-%20%E2%91%A7%E9%98%BF%E9%87%8C%E4%BA%91light.png)
+
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：9%
+- 负载：2%
 
-- 在线人数： 11
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -56,7 +124,7 @@ ssr://MjQua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 - 负载：22%
 
-- 在线人数： 6
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -88,9 +156,9 @@ ssr://MjEua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：1%
+- 负载：4%
 
-- 在线人数： 12
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -122,9 +190,9 @@ ssr://MjIua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本3 免费节点 - 有问题请加QQ群700414484
 
-- 负载：1%
+- 负载：3%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 
@@ -192,7 +260,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP2
 
 - 负载：N/A
 
-- 在线人数： 5
+- 在线人数： 7
 
 - Json配置信息：
 
