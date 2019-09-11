@@ -20,9 +20,9 @@
 ### 节点列表
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：4%
+- 负载：18%
 
-- 在线人数： 14
+- 在线人数： 12
 
 - Json配置信息：
 
@@ -56,7 +56,7 @@ ssr://MjQua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 - 负载：77%
 
-- 在线人数： 5
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -88,9 +88,9 @@ ssr://MjEua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：16%
+- 负载：6%
 
-- 在线人数： 10
+- 在线人数： 9
 
 - Json配置信息：
 
@@ -124,7 +124,7 @@ ssr://MjIua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 - 负载：1%
 
-- 在线人数： 7
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -192,7 +192,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP2
 
 - 负载：61%
 
-- 在线人数： 15
+- 在线人数： 10
 
 - Json配置信息：
 
