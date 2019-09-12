@@ -4,14 +4,14 @@
 
 - 用户名：pgw1318@gmail.com
 - 帐号等级：普通用户
-- 在线设备数：1 / 2
+- 在线设备数：0 / 2
 - 带宽：20Mbps
-- 今日使用流量：448.17MB
+- 今日使用流量：671.22MB
 - 过去使用流量：0B
-- 剩余流量：360.83MB
+- 剩余流量：137.78MB
 - 等级过期时间：2019-09-11 09:48:53
 - 账号过期时间：2029-09-04 15:48:53
-- 上次使用时间：2019-09-12 17:01:17
+- 上次使用时间：2019-09-12 17:04:31
 - 上次签到时间：2019-09-12 01:01:04
 - 订阅地址：https://www.viyundingji.xyz/link/6Oex2yBdQIDhyBnr?mu=0
 
@@ -20,9 +20,9 @@
 ### 节点列表
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：25%
+- 负载：28%
 
-- 在线人数： 7
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -54,7 +54,7 @@ ssr://NDcuMjQwLjMuMTc6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### [vip1]香港 - ⑧阿里云light
 
-- 负载：40%
+- 负载：24%
 
 - 在线人数： 9
 
@@ -88,9 +88,9 @@ ssr://OC5rbnNnLmZ1bjo0MTQ5OTpvcmlnaW46cmM0LW1kNTpwbGFpbjpURUpPY0hwTC8
 
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：12%
+- 负载：29%
 
-- 在线人数： 9
+- 在线人数： 11
 
 - Json配置信息：
 
@@ -122,9 +122,9 @@ ssr://MjQua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
-- 负载：116%
+- 负载：85%
 
-- 在线人数： 11
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -156,9 +156,9 @@ ssr://MjEua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：5%
+- 负载：15%
 
-- 在线人数： 12
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -190,9 +190,9 @@ ssr://MjIua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本3 免费节点 - 有问题请加QQ群700414484
 
-- 负载：1%
+- 负载：10%
 
-- 在线人数： 8
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -260,7 +260,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP2
 
 - 负载：N/A
 
-- 在线人数： 13
+- 在线人数： 14
 
 - Json配置信息：
 
