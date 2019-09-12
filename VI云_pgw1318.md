@@ -6,12 +6,12 @@
 - 帐号等级：普通用户
 - 在线设备数：1 / 2
 - 带宽：20Mbps
-- 今日使用流量：343.55MB
+- 今日使用流量：368.79MB
 - 过去使用流量：0B
-- 剩余流量：465.45MB
+- 剩余流量：440.21MB
 - 等级过期时间：2019-09-11 09:48:53
 - 账号过期时间：2029-09-04 15:48:53
-- 上次使用时间：2019-09-12 11:01:20
+- 上次使用时间：2019-09-12 12:01:00
 - 上次签到时间：2019-09-12 01:01:04
 - 订阅地址：https://www.viyundingji.xyz/link/6Oex2yBdQIDhyBnr?mu=0
 
@@ -20,9 +20,9 @@
 ### 节点列表
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：9%
+- 负载：45%
 
-- 在线人数： 3
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -54,9 +54,9 @@ ssr://NDcuMjQwLjMuMTc6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### [vip1]香港 - ⑧阿里云light
 
-- 负载：43%
+- 负载：21%
 
-- 在线人数： 11
+- 在线人数： 13
 
 - Json配置信息：
 
@@ -88,9 +88,9 @@ ssr://OC5rbnNnLmZ1bjo0MTQ5OTpvcmlnaW46cmM0LW1kNTpwbGFpbjpURUpPY0hwTC8
 
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：4%
+- 负载：13%
 
-- 在线人数： 9
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -122,9 +122,9 @@ ssr://MjQua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本1 免费节点 - 有问题请加QQ群700414484
 
-- 负载：4%
+- 负载：89%
 
-- 在线人数： 11
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -156,9 +156,9 @@ ssr://MjEua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：7%
+- 负载：6%
 
-- 在线人数： 7
+- 在线人数： 9
 
 - Json配置信息：
 
@@ -190,9 +190,9 @@ ssr://MjIua25zZy5mdW46NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP29iZnNwYX
 
 #### 日本3 免费节点 - 有问题请加QQ群700414484
 
-- 负载：9%
+- 负载：4%
 
-- 在线人数： 6
+- 在线人数： 5
 
 - Json配置信息：
 
@@ -260,7 +260,7 @@ ssr://dmlwMi1qcDIubXh4by54eXo6NDE0OTk6b3JpZ2luOnJjNC1tZDU6cGxhaW46VEVKT2NIcEwvP2
 
 - 负载：N/A
 
-- 在线人数： 9
+- 在线人数： 8
 
 - Json配置信息：
 
