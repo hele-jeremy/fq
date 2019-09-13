@@ -4,14 +4,14 @@
 
 - 用户名：pgw1320@gmail.com
 - 帐号等级：VIP 1
-- 在线设备数：1 / 2
+- 在线设备数：0 / 2
 - 带宽：20Mbps
-- 今日使用流量：719.17MB
+- 今日使用流量：783.89MB
 - 过去使用流量：0B
-- 剩余流量：9.88GB
+- 剩余流量：9.82GB
 - 等级过期时间：2019-09-16 16:22:03
 - 账号过期时间：2029-09-09 22:22:03
-- 上次使用时间：2019-09-13 19:00:27
+- 上次使用时间：2019-09-13 19:44:51
 - 上次签到时间：2019-09-13 01:01:06
 - 订阅地址：https://www.viyundingji.xyz/link/oZHa0NDfLtlj98w7?mu=0
 
@@ -20,7 +20,7 @@
 ### 节点列表
 #### [vip1]香港 - ⑥阿里云light
 
-- 负载：25%
+- 负载：47%
 
 - 在线人数： 6
 
@@ -54,9 +54,9 @@ ssr://NDcuMjQwLjMuMTc6MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### [vip1]香港 - ⑧阿里云light
 
-- 负载：28%
+- 负载：50%
 
-- 在线人数： 11
+- 在线人数： 13
 
 - Json配置信息：
 
@@ -88,7 +88,7 @@ ssr://OC5rbnNnLmZ1bjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbjpRMFp0ZFUweS8
 
 #### 新加坡 免费节点-有问题请加QQ群700414484
 
-- 负载：8%
+- 负载：38%
 
 - 在线人数： 14
 
@@ -124,7 +124,7 @@ ssr://MjQua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 - 负载：48%
 
-- 在线人数： 5
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -156,9 +156,9 @@ ssr://MjEua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### 日本2 免费节点 - 有问题请加QQ群700414484
 
-- 负载：10%
+- 负载：37%
 
-- 在线人数： 6
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -192,7 +192,7 @@ ssr://MjIua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 - 负载：6%
 
-- 在线人数： 4
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -258,9 +258,9 @@ ssr://dmlwMi1qcDIubXh4by54eXo6MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP2
 
 #### 美国 免费节点 - 有问题请加QQ群700414484
 
-- 负载：N/A
+- 负载：49%
 
-- 在线人数： 11
+- 在线人数： 13
 
 - Json配置信息：
 
@@ -292,9 +292,9 @@ ssr://MjAua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### [vip1]新加坡 - 2丨解锁Netflix丨三网优化
 
-- 负载：51%
+- 负载：106%
 
-- 在线人数： 5
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -328,7 +328,7 @@ ssr://dmlwMS41OS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 - 负载：46%
 
-- 在线人数： 1
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -360,9 +360,9 @@ ssr://dmlwMS41OC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]日本 - ①丨三网优化
 
-- 负载：5%
+- 负载：2%
 
-- 在线人数： 4
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -394,9 +394,9 @@ ssr://dmlwMS40MC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]日本 - ②丨三网优化
 
-- 负载：0%
+- 负载：2%
 
-- 在线人数： 3
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -428,7 +428,7 @@ ssr://MTQua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### [vip1]日本 - ③丨三网优化
 
-- 负载：0%
+- 负载：1%
 
 - 在线人数： 4
 
@@ -462,9 +462,9 @@ ssr://MTUua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### [vip1]日本 - ④丨三网优化
 
-- 负载：24%
+- 负载：4%
 
-- 在线人数： 0
+- 在线人数： 2
 
 - Json配置信息：
 
@@ -496,9 +496,9 @@ ssr://dmlwMS41Ny5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 备用节点
 
-- 负载：10%
+- 负载：5%
 
-- 在线人数： 2
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -532,7 +532,7 @@ ssr://dmlwMS4zNi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 - 负载：54%
 
-- 在线人数： 14
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -566,7 +566,7 @@ ssr://dmlwMS41Mi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 - 负载：20%
 
-- 在线人数： 3
+- 在线人数： 2
 
 - Json配置信息：
 
@@ -598,9 +598,9 @@ ssr://MTgua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### [vip1]美国 - 高速节点③
 
-- 负载：2%
+- 负载：0%
 
-- 在线人数： 2
+- 在线人数： 0
 
 - Json配置信息：
 
@@ -632,7 +632,7 @@ ssr://dmlwMS40Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点④
 
-- 负载：2%
+- 负载：7%
 
 - 在线人数： 2
 
@@ -666,9 +666,9 @@ ssr://dmlwMS4zNy5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点④
 
-- 负载：16%
+- 负载：9%
 
-- 在线人数： 3
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -700,9 +700,9 @@ ssr://MTcua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP29iZnNwYX
 
 #### [vip1]美国 - 高速节点⑤
 
-- 负载：23%
+- 负载：8%
 
-- 在线人数： 2
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -734,9 +734,9 @@ ssr://dmlwMS41NC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点⑥
 
-- 负载：0%
+- 负载：1%
 
-- 在线人数： 4
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -768,9 +768,9 @@ ssr://dmlwMS41NS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]美国 - 高速节点⑦
 
-- 负载：32%
+- 负载：18%
 
-- 在线人数： 3
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -802,9 +802,9 @@ ssr://dmlwMS41Ni5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]香港 - ①阿里云linght
 
-- 负载：19%
+- 负载：21%
 
-- 在线人数： 10
+- 在线人数： 15
 
 - Json配置信息：
 
@@ -836,9 +836,9 @@ ssr://dmlwMS4yOC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]香港 - ②阿里云light丨解锁Netfilx
 
-- 负载：16%
+- 负载：12%
 
-- 在线人数： 13
+- 在线人数： 12
 
 - Json配置信息：
 
@@ -870,9 +870,9 @@ ssr://dmlwMDEuMjkua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP2
 
 #### [vip1]香港 - ③阿里云light丨解锁Netfilx
 
-- 负载：14%
+- 负载：43%
 
-- 在线人数： 19
+- 在线人数： 18
 
 - Json配置信息：
 
@@ -904,7 +904,7 @@ ssr://dmlwMDEuMzAua25zZy5mdW46MzI0Njg6b3JpZ2luOnJjNC1tZDU6cGxhaW46UTBadGRVMHkvP2
 
 #### [vip1]香港 - ④阿里云light
 
-- 负载：13%
+- 负载：35%
 
 - 在线人数： 2
 
@@ -938,9 +938,9 @@ ssr://dmlwMS4zMS5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]香港 - ⑤阿里云light
 
-- 负载：19%
+- 负载：32%
 
-- 在线人数： 4
+- 在线人数： 5
 
 - Json配置信息：
 
@@ -972,9 +972,9 @@ ssr://dmlwMS4zMi5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]香港 - ⑦阿里云light
 
-- 负载：0%
+- 负载：6%
 
-- 在线人数： 1
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -1006,9 +1006,9 @@ ssr://dmlwMS4zNC5xaWFuZ3dvc2hpc2hhYmkuY2x1YjozMjQ2ODpvcmlnaW46cmM0LW1kNTpwbGFpbj
 
 #### [vip1]香港 - 阿里云light
 
-- 负载：19%
+- 负载：10%
 
-- 在线人数： 5
+- 在线人数： 3
 
 - Json配置信息：
 
