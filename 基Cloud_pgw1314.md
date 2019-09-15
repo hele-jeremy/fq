@@ -4,14 +4,14 @@
 
 - 用户名：pgw1314@gmail.com
 - 帐号等级：VIP 2
-- 在线设备数：0 / 2
+- 在线设备数：1 / 2
 - 带宽：50Mbps
-- 今日使用流量：1.51MB
+- 今日使用流量：1.8MB
 - 过去使用流量：13.49GB
 - 剩余流量：8.61GB
 - 等级过期时间：2019-09-17 18:37:24
 - 账号过期时间：2029-09-07 18:37:24
-- 上次使用时间：2019-09-16 00:56:54
+- 上次使用时间：2019-09-16 02:00:05
 - 上次签到时间：2019-09-16 01:01:06
 - 订阅地址：https://www.gaygay.site/link/iOSzL82TNP7Ev6GE?mu=0
 
@@ -20,9 +20,9 @@
 ### 节点列表
 #### [vip1] 新加坡 01
 
-- 负载：25%
+- 负载：62%
 
-- 在线人数： 6
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -54,9 +54,9 @@ ssr://djEuYWwueGpwMDEuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 #### [vip1] 新加坡 02
 
-- 负载：16%
+- 负载：33%
 
-- 在线人数： 4
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -88,7 +88,7 @@ ssr://djEuYWwueGpwMDIuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 #### [vip1] 新加坡 03
 
-- 负载：21%
+- 负载：29%
 
 - 在线人数： 7
 
@@ -122,7 +122,7 @@ ssr://djEuYWwueGpwMDMuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 #### [vip1] 新加坡 04
 
-- 负载：21%
+- 负载：13%
 
 - 在线人数： 2
 
@@ -156,9 +156,9 @@ ssr://djEuYWwueGpwMDQuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 #### [vip1] 香港 01
 
-- 负载：31%
+- 负载：4%
 
-- 在线人数： 4
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -190,7 +190,7 @@ ssr://djEuYWwuaGswMS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1] 香港 02
 
-- 负载：109%
+- 负载：95%
 
 - 在线人数： 0
 
@@ -224,7 +224,7 @@ ssr://djEuYWwuaGswMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶02
 
-- 负载：4%
+- 负载：1%
 
 - 在线人数： 7
 
@@ -258,9 +258,9 @@ ssr://djEudmwubHNqMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶03
 
-- 负载：21%
+- 负载：5%
 
-- 在线人数： 7
+- 在线人数： 5
 
 - Json配置信息：
 
@@ -292,9 +292,9 @@ ssr://djEudmwubHNqMy5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶04
 
-- 负载：21%
+- 负载：29%
 
-- 在线人数： 3
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -326,9 +326,9 @@ ssr://djEudmwubHNqNC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶05
 
-- 负载：8%
+- 负载：13%
 
-- 在线人数： 4
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -360,9 +360,9 @@ ssr://djEudmwubHNqNS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶06
 
-- 负载：0%
+- 负载：1%
 
-- 在线人数： 4
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -394,7 +394,7 @@ ssr://djEudmwubHNqNi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶07
 
-- 负载：2%
+- 负载：27%
 
 - 在线人数： 6
 
@@ -428,9 +428,9 @@ ssr://djEudmwubHNqNy5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶08
 
-- 负载：9%
+- 负载：6%
 
-- 在线人数： 5
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -462,7 +462,7 @@ ssr://djEudmwubHNqOC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶09
 
-- 负载：7%
+- 负载：6%
 
 - 在线人数： 6
 
@@ -496,9 +496,9 @@ ssr://djEudmwubHNqOS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip1]美国洛杉矶10
 
-- 负载：16%
+- 负载：28%
 
-- 在线人数： 7
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -530,7 +530,7 @@ ssr://djEudmwubHNqMTAuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 #### [vip2]香港 Ali01
 
-- 负载：45%
+- 负载：36%
 
 - 在线人数： 0
 
@@ -550,9 +550,9 @@ ssr://djEudmwubHNqMTAuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 #### [vip2]香港 Ali02
 
-- 负载：26%
+- 负载：22%
 
-- 在线人数： 22
+- 在线人数： 19
 
 - Json配置信息：
 
@@ -584,9 +584,9 @@ ssr://djIuYWwuaGs4LmdheWdheS54eXo6MjM5MjM6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1daUldHdE
 
 #### [vip2]香港 Ali03
 
-- 负载：6%
+- 负载：48%
 
-- 在线人数： 6
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -618,9 +618,9 @@ ssr://djIuYWwuaGs5LmdheWdheS54eXo6MjM5MjM6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1daUldHdE
 
 #### [vip2]香港 Ali04
 
-- 负载：3%
+- 负载：35%
 
-- 在线人数： 1
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -652,9 +652,9 @@ ssr://djIuYWwuaGsxMC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip2]香港 Ali05
 
-- 负载：2%
+- 负载：12%
 
-- 在线人数： 6
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -686,7 +686,7 @@ ssr://djIuYWwuaGsxMS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip2]香港 Ali06
 
-- 负载：2%
+- 负载：7%
 
 - 在线人数： 5
 
@@ -720,7 +720,7 @@ ssr://djIuYWwuaGsxMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip2]香港 Ali07
 
-- 负载：45%
+- 负载：48%
 
 - 在线人数： 2
 
@@ -754,7 +754,7 @@ ssr://djIuYWwuaGsxMy5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip2]香港 Ali08
 
-- 负载：34%
+- 负载：17%
 
 - 在线人数： 7
 
@@ -788,9 +788,9 @@ ssr://djIuYWwuaGsxNC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 #### [vip2]香港 Ali09
 
-- 负载：0%
+- 负载：11%
 
-- 在线人数： 5
+- 在线人数： 7
 
 - Json配置信息：
 
