@@ -4,14 +4,14 @@
 
 - 用户名：pgw1314@gmail.com
 - 帐号等级：VIP 2
-- 在线设备数：0 / 2
+- 在线设备数：1 / 2
 - 带宽：50Mbps
-- 今日使用流量：591.72MB
+- 今日使用流量：644.2MB
 - 过去使用流量：13.49GB
-- 剩余流量：8.03GB
+- 剩余流量：7.98GB
 - 等级过期时间：2019-09-17 18:37:24
 - 账号过期时间：2029-09-07 18:37:24
-- 上次使用时间：2019-09-16 22:00:40
+- 上次使用时间：2019-09-16 23:10:11
 - 上次签到时间：2019-09-16 01:01:06
 - 订阅地址：https://www.gaygay.site/link/iOSzL82TNP7Ev6GE?mu=0
 
@@ -19,7 +19,7 @@
 
 - 负载：10%
 
-- 在线人数： 16
+- 在线人数： 15
 
 - Json配置信息：
 
@@ -47,12 +47,12 @@ ssr://djEuYWwueGpwMDEuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2001.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2001.png)
 #### [vip1]新加坡 02
 
 - 负载：10%
 
-- 在线人数： 9
+- 在线人数： 10
 
 - Json配置信息：
 
@@ -80,12 +80,12 @@ ssr://djEuYWwueGpwMDIuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2002.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2002.png)
 #### [vip1]新加坡 03
 
 - 负载：31%
 
-- 在线人数： 11
+- 在线人数： 14
 
 - Json配置信息：
 
@@ -113,12 +113,12 @@ ssr://djEuYWwueGpwMDMuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2003.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2003.png)
 #### [vip1]新加坡 04
 
 - 负载：35%
 
-- 在线人数： 8
+- 在线人数： 7
 
 - Json配置信息：
 
@@ -146,12 +146,12 @@ ssr://djEuYWwueGpwMDQuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2004.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E6%96%B0%E5%8A%A0%E5%9D%A1%2004.png)
 #### [vip1]美国洛杉矶 02
 
 - 负载：14%
 
-- 在线人数： 5
+- 在线人数： 11
 
 - Json配置信息：
 
@@ -179,12 +179,12 @@ ssr://djEudmwubHNqMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2002.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2002.png)
 #### [vip1]美国洛杉矶 03
 
 - 负载：1%
 
-- 在线人数： 8
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -212,7 +212,7 @@ ssr://djEudmwubHNqMy5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2003.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2003.png)
 #### [vip1]美国洛杉矶 05
 
 - 负载：11%
@@ -245,12 +245,12 @@ ssr://djEudmwubHNqNS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2005.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2005.png)
 #### [vip1]美国洛杉矶 06
 
 - 负载：3%
 
-- 在线人数： 8
+- 在线人数： 12
 
 - Json配置信息：
 
@@ -278,12 +278,12 @@ ssr://djEudmwubHNqNi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2006.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2006.png)
 #### [vip1]美国洛杉矶 07
 
 - 负载：6%
 
-- 在线人数： 4
+- 在线人数： 11
 
 - Json配置信息：
 
@@ -311,7 +311,7 @@ ssr://djEudmwubHNqNy5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2007.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2007.png)
 #### [vip1]美国洛杉矶 08
 
 - 负载：32%
@@ -344,12 +344,12 @@ ssr://djEudmwubHNqOC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2008.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2008.png)
 #### [vip1]美国洛杉矶 09
 
 - 负载：23%
 
-- 在线人数： 5
+- 在线人数： 11
 
 - Json配置信息：
 
@@ -377,7 +377,7 @@ ssr://djEudmwubHNqOS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2009.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2009.png)
 #### [vip1]美国洛杉矶 10
 
 - 负载：4%
@@ -410,7 +410,7 @@ ssr://djEudmwubHNqMTAuZ2F5Z2F5Lnh5ejoyMzkyMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpTV1pSV0
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2010.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%2010.png)
 #### [vip1]美国洛杉矶04
 
 - 负载：12%
@@ -443,7 +443,7 @@ ssr://djEudmwubHNqNC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B604.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B604.png)
 #### [vip1]香港 01
 
 - 负载：9%
@@ -476,12 +476,12 @@ ssr://djEuYWwuaGswMS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E9%A6%99%E6%B8%AF%2001.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E9%A6%99%E6%B8%AF%2001.png)
 #### [vip1]香港 02
 
 - 负载：41%
 
-- 在线人数： 14
+- 在线人数： 17
 
 - Json配置信息：
 
@@ -509,7 +509,7 @@ ssr://djEuYWwuaGswMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E9%A6%99%E6%B8%AF%2002.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip1%5D%E9%A6%99%E6%B8%AF%2002.png)
 #### [vip2]香港 Ali01
 
 - 负载：7%
@@ -528,12 +528,12 @@ ssr://djEuYWwuaGswMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali01.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali01.png)
 #### [vip2]香港 Ali02
 
 - 负载：0%
 
-- 在线人数： 16
+- 在线人数： 17
 
 - Json配置信息：
 
@@ -561,7 +561,7 @@ ssr://djIuYWwuaGs4LmdheWdheS54eXo6MjM5MjM6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1daUldHdE
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali02.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali02.png)
 #### [vip2]香港 Ali03
 
 - 负载：11%
@@ -594,12 +594,12 @@ ssr://djIuYWwuaGs5LmdheWdheS54eXo6MjM5MjM6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1daUldHdE
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali03.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali03.png)
 #### [vip2]香港 Ali04
 
 - 负载：4%
 
-- 在线人数： 1
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -627,12 +627,12 @@ ssr://djIuYWwuaGsxMC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali04.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali04.png)
 #### [vip2]香港 Ali05
 
 - 负载：2%
 
-- 在线人数： 7
+- 在线人数： 4
 
 - Json配置信息：
 
@@ -660,12 +660,12 @@ ssr://djIuYWwuaGsxMS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali05.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali05.png)
 #### [vip2]香港 Ali06
 
 - 负载：1%
 
-- 在线人数： 4
+- 在线人数： 3
 
 - Json配置信息：
 
@@ -693,12 +693,12 @@ ssr://djIuYWwuaGsxMi5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali06.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali06.png)
 #### [vip2]香港 Ali07
 
 - 负载：8%
 
-- 在线人数： 4
+- 在线人数： 6
 
 - Json配置信息：
 
@@ -726,12 +726,12 @@ ssr://djIuYWwuaGsxMy5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali07.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali07.png)
 #### [vip2]香港 Ali08
 
 - 负载：0%
 
-- 在线人数： 9
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -759,12 +759,12 @@ ssr://djIuYWwuaGsxNC5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali08.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali08.png)
 #### [vip2]香港 Ali09
 
 - 负载：3%
 
-- 在线人数： 7
+- 在线人数： 8
 
 - Json配置信息：
 
@@ -792,4 +792,4 @@ ssr://djIuYWwuaGsxNS5nYXlnYXkueHl6OjIzOTIzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlNXWlJXR3
 
 - 配置二维码：
 
-![二维码](https://coding.net/u/pgw1314/p/fq/git/raw/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali09.png)
+![二维码](https://raw.githubusercontent.com/pgw1314/fq/master/qrcode/%E5%9F%BACloud_pgw1314/%5Bvip2%5D%E9%A6%99%E6%B8%AF%20Ali09.png)
